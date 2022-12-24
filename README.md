@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oliver1302
 - 👀 I’m interested in developing websites
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently doing Machine Learning
 - 💞️ I’m looking to collaborate on App Development
 - 📫 How to reach me olivermburu13@gmail.com
 
